@@ -9,7 +9,7 @@ A part of my work during college.🌻
              Arhitectura sistemelor de calcul
                </a>
            </li>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Fundamentele-programarii">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Python%20-%20Fundamentele%20programarii">
              Fundamentele programarii
                </a>
            </li>
