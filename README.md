@@ -57,7 +57,7 @@ A part of my work during college.🌻
              Probabilitati si statistica
                </a>
            </li>  
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Engleza">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Engleza">
               Engleza
                </a>
            </li> 
