@@ -6,5 +6,3 @@ concurenti si prajituri "ConsumPrajitura" pentru a realiza memorarea cantitatilo
 respectiv, cantitatea va fi actualizata.
   2. Am creat un view care afiseaza numele si adresa de email a concurentilor care au mancat prajituri care au ca ingredient principal 'mousse de fructe' dar nu au mancat prajituri care au ca ingredient
 principal 'mousse de vanilie'.
-
-Diagrama bazei de date:
