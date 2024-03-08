@@ -1,0 +1,6 @@
+Lisp1: functii Lisp programate in mod recursiv pe liste
+Lisp2: functie Lisp programata in mod recursiv pe arbore memorat astfel: (nod (lista-subarbore-1) (lista-subarbore-2))
+Lisp3: functii Lisp care folosesc functii MAP pe liste
+
+Prolog1, Prolog2: liste si liste eterogene in Prolog
+Prolog3: utilizarea facilitatii de backtracking in Prolog, permutari cu o anumita proprietate
