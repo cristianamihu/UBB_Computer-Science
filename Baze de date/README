@@ -1,6 +1,6 @@
-Gestiunea unui Orfelinat, lucrare de laborator: <a href="https://github.com/cristianamihu/Baze-de-date/Orfelinat"> Orfelinat </a> 
+Gestiunea unui Orfelinat, lucrare de laborator: Orfelinat
 
-Gestiunea unei competitii de mancat prajituri, <a href="https://github.com/cristianamihu/Baze-de-dat"> examen practic </a>:  entitatiile de interes sunt concurenti, prajituri, tipuri de prajituri si ingrediente.
+Gestiunea unei competitii de mancat prajituri, examen practic:  entitatiile de interes sunt concurenti, prajituri, tipuri de prajituri si ingrediente.
   1. Dupa creearea tabelelor am creat o procedura stocata careprimeste un concurent, o prajitura si o cantitate si adauga prajitura concurentului respectiv. Daca prajitura a fost deja asociata concurentului
 respectiv, cantitatea va fi actualizata.
   2. Am creat un view care afiseaza numele si adresa de email a concurentilor care au mancat prajituri care au ca ingredient principal 'mousse de fructe' dar nu au mancat prajituri care au ca ingredient
