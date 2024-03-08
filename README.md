@@ -25,7 +25,7 @@ A part of my work during college.🌻
              Programare orientata obiect
                </a>
            </li>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Structuri-de-date-si-algoritmi">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Structuri%20de%20date%20si%20algoritmi%20-%20TAD%20Colectie">
              Structuri de date si algoritmi
                </a>
            </li>
