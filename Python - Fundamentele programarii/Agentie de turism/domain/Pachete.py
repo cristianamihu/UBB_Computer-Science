@@ -1,14 +1,14 @@
 def creaza_pachet(data_inceput_zi, data_inceput_luna, data_inceput_an, data_sfarsit_zi, data_sfarsit_luna, data_sfarsit_an, destinatie, pret):
     """
-    :param data_inceput_zi: Acest parametru este un parametru int, care stocheaza ziua datii de inceput a calatoriei
-    :param data_inceput_luna: Acest parametru este un parametru int, care stocheata luna datii de inceput
-    :param data_inceput_an: Acest parametru este un parametru int, care stocheaza anul datii de inceput
-    :param data_sfarsit_zi: Acest parametru este un parametru int, care stocheaza ziua datii de sfarsit
-    :param data_sfarsit_luna: Acest parametru este un parametru int, care stocheata luna datii de sfarsit
-    :param data_sfarsit_an: Acest parametru este un parametru int, care stocheaza anul datii de sfarsit
-    :param destinatie: Acest parametru este un parametru string, care stocheaza destinatia
-    :param pret: Acest parametru este un paremtru float, care stocheaza pretul
-    :return: Pachetul de calatorie de tip pachet
+    :param data_inceput_zi: ziua datii de inceput a calatoriei, parametru de tip int
+    :param data_inceput_luna: luna datii de inceput, parametru de tip int
+    :param data_inceput_an: anul datii de inceput, parametru de tip int
+    :param data_sfarsit_zi: ziua datii de sfarsit, parametru de tip int
+    :param data_sfarsit_luna: luna datii de sfarsit, parametru de tip int
+    :param data_sfarsit_an: anul datii de sfarsit, parametru de tip int
+    :param destinatie: destinatia, parametru de tip int
+    :param pret: pretul, parametru de tip float
+    :return: Pachetul de calatorie, parametru de tip pachet
     """
     return{
         "data_inceput_zi":data_inceput_zi,
