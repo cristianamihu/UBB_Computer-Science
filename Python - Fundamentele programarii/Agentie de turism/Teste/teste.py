@@ -1,5 +1,6 @@
 from Business.Servicii import adaugare_pachet_servicii
 
+
 def ruleaza_teste_pachet_service():
     data_inceput_zi_gresita = -1
     data_inceput_luna_gresita = 13
