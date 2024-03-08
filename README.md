@@ -49,7 +49,7 @@ A part of my work during college.🌻
              Baze de date
                </a>
            </li>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Retele-de-calculatoare">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Retele%20de%20calculatoare">
              Retele de calculatoare
                </a>
            </li>
