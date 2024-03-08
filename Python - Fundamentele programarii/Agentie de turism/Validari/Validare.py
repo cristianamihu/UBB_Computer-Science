@@ -1,6 +1,7 @@
 from domain.Pachete import preia_datainceput_zi, preia_datainceput_luna, preia_datainceput_an, preia_datasfarsit_zi, \
     preia_datasfarsit_luna, preia_datasfarsit_an, preia_pret, preia_destinatie
 
+
 def valideaza_pachet(pachet):
     erori = ""
     if isinstance(preia_datainceput_zi(pachet), str) == True:
