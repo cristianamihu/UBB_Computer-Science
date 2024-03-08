@@ -1,5 +1,5 @@
 # UBB---Computer-Science
-All my work, projects and documents during college.🌻
+A part of my work during college.🌻
 <ul>
   <li>1st year
     <ul>
