@@ -45,7 +45,7 @@ All my work, projects and documents during college.🌻
              Programare logica si functionala
                </a>
            </li>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Baze-de-date">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Baze%20de%20date">
              Baze de date
                </a>
            </li>
