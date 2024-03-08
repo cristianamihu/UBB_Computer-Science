@@ -41,7 +41,7 @@ All my work, projects and documents during college.🌻
              Metode avansate de programare
                </a>
            </li>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Programare-logica-si-functionala">
+           <li><a href="[https://github.com/cristianamihu/UBB_Computer-Science/Programare-logica-si-functionala](https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Programare%20logica%20si%20functionala)">
              Programare logica si functionala
                </a>
            </li>
