@@ -6,15 +6,15 @@ from domain.Pachete import creaza_pachet, afisare_pachet
 def adaugare_pachet_servicii(lista, data_inceput_zi, data_inceput_luna, data_inceput_an, data_sfarsit_zi, data_sfarsit_luna, data_sfarsit_an, destinatie, pret):
     """
 
-    :param lista: Aici se afla lista de pachete
-    :param data_inceput_zi: Aici se afla ziua datii de inceput
-    :param data_inceput_luna: Aici se afla luna datii de inceput
-    :param data_inceput_an: Aici se afla anul datii de inceput
-    :param data_sfarsit_zi: Aici se afla ziua datii de sfarsit
-    :param data_sfarsit_luna: Aici se afla luna datii de sfarsit
-    :param data_sfarsit_an: Aici se afla anul datii de sfarsit
-    :param destinatie: Aici se afla destinatia
-    :param pret: Aici se afla pretul
+    :param lista: lista de pachete
+    :param data_inceput_zi: ziua datii de inceput
+    :param data_inceput_luna: luna datii de inceput
+    :param data_inceput_an: anul datii de inceput
+    :param data_sfarsit_zi: ziua datii de sfarsit
+    :param data_sfarsit_luna: luna datii de sfarsit
+    :param data_sfarsit_an: anul datii de sfarsit
+    :param destinatie: destinatia
+    :param pret: pretul
     :return: Lista de pachete creata
     """
 
