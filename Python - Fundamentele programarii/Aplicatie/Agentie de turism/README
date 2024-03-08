@@ -1,0 +1,32 @@
+Am folosit procesul de dezvoltare incrementala bazata pe functionalitati si dezvoltare dirijata de teste. Am separat partea de interfata utilizator de restul aplicatiei si implementat o solutie
+procedurala (mai multe functii toate in acelasi modul), validarea datelor de intrare, programul semnalează erorile catre utilizator.
+
+Am creat o aplicație pentru gestiunea pachetelor de calatorie oferite de o agentie de turism. Aplicatia stocheaza pachete de calatorie oferite clientilor dupa cum urmează: data de inceput si cea de sfarsit
+a calatoriei, destinatia si pretul.
+Aplicatia permite:
+  1. Adaugare
+    • Adauga pachet de calatorie
+    • Modifica pachet de calatorie
+  2. Stergere
+    • Stergerea tuturor pachetelor de calatorie disponibile pentru o destinatie data
+    • Stergerea tuturor pachetelor de calatorie care au o durata mai scurta decat un numar de zile dat
+    • Stergerea tuturor pachetelor de calatorie care au pretul mai mare decat o suma data
+  3. Căutare
+    • Tipărirea pachetelor de călătorie care presupun un sejur într-un interval dat (e.g. 10/08/2018 - 24/08/2018 - un pachet valid este cel a cărui dată de început este aceeași sau după de data de început
+citită și data de sfârșit este înainte sau aceeași cu data de sfârșit introdusă de la tastatură)
+    • Tiparirea pachetelor de calatorie cu o destinatie data si cu pret mai mic decat o suma data
+    • Tipărirea pachetelor de călătorie cu o anumită dată de sfârșit
+  4. Rapoarte
+• Tipărirea numărului de oferte pentru o destinație dată.
+• Tipărirea tuturor pachetelor disponibile într-o anumită perioadă citită
+de la tastatură (vezi 3.i.) în ordinea crescătoare a prețului.
+• Tipărirea mediei de preț pentru o destinație dată
+5. Filtrare
+• Eliminarea ofertelor care au un preț mai mare decât cel dat și o
+destinație diferită de cea citită de la tastatură
+• Eliminarea ofertelor în care sejurul presupune zile dintr-o anumită
+lună (citită de la tastatură sub forma unui număr natural între 1 și 12)
+6. Undo
+• Refacerea ultimei operații (lista de oferte revine la ce exista înainte
+de ultima operație care a modificat lista) – Nu folosiți funcția
+deepCopy
