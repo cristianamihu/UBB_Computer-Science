@@ -1,0 +1,8 @@
+Gestiunea unui orfelinat: 
+  -am reprezentat datele bazei de date intr-o structura relationala, implementand-o intro baza de date Microsoft SQL Server.
+  -am creat interogari care folosesc where, group by, distinct, having; si care extrag informatii din mai mult de doua tabele sau care sunt facute pe tabele aflate in realtie many to may.
+  -am dezvoltat un mecanism de versionare care faciliteaza tranzitia de la o versiune a bazei de date la alta. Am scris scripturi SQL care: modifica tipul unei coloane, adauga o constrangere de "valoare implicita"
+pentru un camp, creaza o tabela, adauga un camp nou, adauga o constrangere de cheie straina. Pentru toate aceste operatiii am implementat si inversul lor, pentru a se "sterge" operatia cand ne intoarcem la o
+versiune precedenta. Intr-o alta tabela am memorat versiunea structurii bazei de date.
+  -folosind un script de creare a unor tabele am inregistrat mai multe configuratii de testare si am implementat proceduri stocate de evaluare si stocare a rezultatelor testarilor.
+  -am creat operatii crud incapsulate in proceduri stocate, folosind parametrii de intrare/iesire, functii pentru validarea datelor de intrare si constrangeri pe tabela/coloana pentru a asigura validitatea datelor.
