@@ -5,7 +5,7 @@ A part of my work during college.🌻
     <ul>
       <li>:open_file_folder:Semester 1
          <ul>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Arhitectura-sistemelor-de-calcul">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Arhitectura%20sistemelor%20de%20calcul">
              Arhitectura sistemelor de calcul
                </a>
            </li>
