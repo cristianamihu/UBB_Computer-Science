@@ -1,15 +1,12 @@
-Am folosit procesul de dezvoltare incrementala bazata pe functionalitati si dezvoltare dirijata de teste. Am separat partea de interfata utilizator de restul aplicatiei si implementat o solutie
-procedurala (mai multe functii toate in acelasi modul), validarea datelor de intrare, programul semnalează erorile catre utilizator.
-
-Am creat o aplicație pentru gestiunea pachetelor de calatorie oferite de o agentie de turism. Aplicatia stocheaza pachete de calatorie oferite clientilor dupa cum urmează: data de inceput si cea de sfarsit
-a calatoriei, destinatia si pretul.
-Aplicatia permite:
-  1. Adaugare
-    • Adauga pachet de calatorie
-    • Modifica pachet de calatorie
-  2. Stergere
-    • Stergerea tuturor pachetelor de calatorie disponibile pentru o destinatie data
-    • Stergerea tuturor pachetelor de calatorie care au o durata mai scurta decat un numar de zile dat
-    • Stergerea tuturor pachetelor de calatorie care au pretul mai mare decat o suma data
-  3. Căutare
-    • Tiparirea pachetelor de calatorie cu o destinatie data si cu pret mai mic decat o suma data
+  I used the process of incremental development based on functionalities and test-driven development. I separated the user interface part from the rest of the application and implemented a procedural solution (several functions all in the same module), validation of input data, the program signals errors to the user.
+  I created an application for the management of travel packages offered by a travel agency. The application stores travel packages offered to customers as follows: the start and end date of the trip, the destination and the price.
+The application allows:
+   1. Addition
+     • Add travel package
+     • Modify travel package
+   2. Deletion
+     • Deleting all travel packages available for a given destination
+     • Deleting all travel packages that have a shorter duration than a given number of days
+     • Deleting all travel packages that have a price higher than a given amount
+   3. Search
+     • Printing travel packages with a given destination and with a price lower than a given amount
