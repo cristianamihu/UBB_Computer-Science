@@ -7,4 +7,4 @@ respectiv, cantitatea va fi actualizata.
   2. Am creat un view care afiseaza numele si adresa de email a concurentilor care au mancat prajituri care au ca ingredient principal 'mousse de fructe' dar nu au mancat prajituri care au ca ingredient
 principal 'mousse de vanilie'.
 
-![Diagrama Orfelinat](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/4b3fd8a3-1f74-4987-9e88-5d35e800b76d)
+![Diagrama Orfelinat](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/58b0a697-1ab4-4e5f-bff3-e7b22c7ffb4c)
