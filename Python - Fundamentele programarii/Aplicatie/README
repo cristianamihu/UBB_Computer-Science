@@ -1,2 +1,2 @@
-I wrote an application that has a console-type user interface with a menu. Here we have implemented finding in a list the maximum length sequence that has different properties.
+I wrote an application that has a console-type user interface with a menu. Here we have implemented finding in a list the maximum length sequence that has different properties. When entering a number between 1 and 5 in the console, it performs an order from the menu.
 The application documentation contains run scenarios and test cases for requirements in tabular format.
