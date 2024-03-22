@@ -1,4 +1,4 @@
-Gestiunea unui Orfelinat, lucrare de laborator: ![Orfelinat].(https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Baze%20de%20date/Orfelinat).
+Gestiunea unui Orfelinat, lucrare de laborator: [Orfelinat](https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Baze%20de%20date/Orfelinat)
 
 Gestiunea unei competitii de mancat prajituri, examen practic: entitatiile de interes sunt concurenti, prajituri, tipuri de prajituri si ingrediente. La aceste tabele am mai facut o tabela de legatura intre
 concurenti si prajituri "ConsumPrajitura" pentru a realiza memorarea cantitatilor de prajituri pe care le mananca concurentii.
