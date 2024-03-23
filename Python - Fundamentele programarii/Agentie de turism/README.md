@@ -15,3 +15,4 @@ The application allows:
      • Printing travel packages with a given destination and with a price lower than a given amount
 
 When you run the application, a menu appears in the console from which you can choose a functionality by entering the number indicated by the desired functionality in the command line.
+![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/70a50dd8-9978-44b4-976a-bd7b38bfb241)
