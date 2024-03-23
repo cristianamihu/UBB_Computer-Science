@@ -4,18 +4,28 @@ only in the computer's memory and is not saved in a permanent database or other 
 I created an application for the management of travel packages offered by a travel agency. The application stores travel packages offered to customers as follows: the start and end date of the trip, the
 destination and the price.
 
+
 The application allows:
 
    1. Addition
+      
       • Add travel package
+      
       • Modify travel package
 
+
    3. Deletion
+      
       • Deleting all travel packages available for a given destination
+      
       • Deleting all travel packages that have a shorter duration than a given number of days
+      
       • Deleting all travel packages that have a price higher than a given amount
 
+
    5. Search
-   6. • Printing travel packages with a given destination and with a price lower than a given amount
+      
+      • Printing travel packages with a given destination and with a price lower than a given amount
+
 
 When you run the application, a menu appears in the console from which you can choose a functionality by entering the number indicated by the desired functionality in the command line.
