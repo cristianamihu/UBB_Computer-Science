@@ -32,3 +32,4 @@ When you run the application, a menu appears in the console from which you can c
 
 ![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/7836b3e6-d694-41f5-855a-8deb8aa0b3d8)
 
+![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/d59394a4-5d5b-4c38-8f56-7b455072b328)
