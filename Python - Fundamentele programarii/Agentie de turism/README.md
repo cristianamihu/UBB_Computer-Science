@@ -29,3 +29,6 @@ The application allows:
 
 
 When you run the application, a menu appears in the console from which you can choose a functionality by entering the number indicated by the desired functionality in the command line.
+
+![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/7836b3e6-d694-41f5-855a-8deb8aa0b3d8)
+
