@@ -1,4 +1,5 @@
 Am creat o aplicatie Windows folosind framework-ul .NET si o baza de date Microsoft SQL Server. Aplicatia contine o fereastra prin intermediul careia se pot manipula datele a doua tabele aflate in relatie 1-n (pe care le numim tabela parinte si tabela fiu).
+
 Functionalitatile implementate sunt:
 
 - se afiseaza toate inregistrarile tabelei parinte (tabela Copii);
