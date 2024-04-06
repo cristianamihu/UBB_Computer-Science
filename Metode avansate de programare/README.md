@@ -1,1 +1,1 @@
-An application written in the C# language "Aplicatie facturi" and an application written in the Java language which is my work from the practical exam that manages holiday offers.
+An application written in the C# language "Aplicatie facturi", an application written in Java language based on the idea of a social network "Aplicatie SocialNetwork" and an application also written in Java language which is my work from the practical exam that manages holiday offers.
