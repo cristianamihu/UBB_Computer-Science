@@ -21,10 +21,10 @@ Cerinte de proiectare:
   
 Cerinte functionale:
 
-1. 2.0p Se afiseaza toate documentele (nume, dataEmitere) emise in anul 2023
-2. 2.0p Se afiseaza toate facturile (nume, dataScadenta) scadente in luna curenta. Luna curenta nu se hardcodeaza, este preluata de la sistem
-3. 1.5p Se afiseaza toate facturile (nume, nrProduse) cu cel putin 3 produse achizitionate (se considera si cantitatea)
-4. 1.5p Se afiseaza toate achizitiile (produs, numeFactura) din categoria Utilities
-5. 2.0p Se afiseaza categoria de facturi care a inregistrat cele mai multe cheltuieli
+1. Se afiseaza toate documentele (nume, dataEmitere) emise in anul 2023
+2. Se afiseaza toate facturile (nume, dataScadenta) scadente in luna curenta. Luna curenta nu se hardcodeaza, este preluata de la sistem
+3. Se afiseaza toate facturile (nume, nrProduse) cu cel putin 3 produse achizitionate (se considera si cantitatea)
+4. Se afiseaza toate achizitiile (produs, numeFactura) din categoria Utilities
+5. Se afiseaza categoria de facturi care a inregistrat cele mai multe cheltuieli
 
 ![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/1c720efc-df4f-45c4-b29d-5d79ef123133)
