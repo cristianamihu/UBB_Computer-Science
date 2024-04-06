@@ -14,9 +14,12 @@ Functionalitatile implementate sunt:
 	Pentru comunicarea cu baza de date am utilizat data sets si data adapters.
 
 Apasand butonul "Display" se vor incarca toate inregistrarile din tabela Copii, iar in momentul in care selectezi o inregistrare din acest tabel se vor afisa toate inregistrarile aferente acelui copil din tabela Activitati. Introducand date dorite in fiecare textBox si apasand botunoul "Add" va aparea inregistrarea in tabelul de Activitati destinat copilului selectat. Daca se selecteaza o inregistrare din tabelul Activitati se permite stergerea sau actualizarea acesteiaprin apasarea butonului "Delete" sau "Update".
+
  ![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/3c19c6d7-308f-4a7c-895e-4a98619c1dc5)
+
 
 	Toate aceste functionalitati se observa si in baza de date.
 
  Aceasta este diagrama bazei de date, iar tabelele folosite in aceasta aplicatie sunt Copii si Activitati:
+ 
 ![Diagrama Orfelinat](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/4935afa9-1b96-4304-89fd-e911e06ff11f)
