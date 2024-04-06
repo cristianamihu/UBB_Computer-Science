@@ -1,48 +1,37 @@
+O aplicatie scrisa in limbaj Java bazata pe ideea unei retele de socializare in care iti poti crea un cont, sa te imprietenesti cu alti utilizatori si sa trimiti mesaje unui alt utilizator sau sa primesti mesaje de la un alt utilizator.
+
 Relatii intre entitati:
 - Un utilizator al retelei are o lista de prieteni
 - O prietenie se stabileste intre doi utilizatori ai retelei
-- Reteau este definita de multimea utilizatorilor si a relatiilor de prietenie dintre acestia
+- Reteaua este definita de multimea utilizatorilor si a relatiilor de prietenie dintre acestia
 
 Cerinte non-funționale:
 - Arhitectura stratificata 
 - DDD (Domain Driven Design) 
-- Persistenta datelor: in memorie 
 - Validarea datelor (Strategy Pattern) 
 - Definirea propriilor clase de exceptii pentru tratarea situatiilor speciale; 
 - Interfata cu utilizatorul, de tip consola
+- Persistenta datelor: in memorie 
 
 Funcționalitati de baza:
 - Gestiunea utilizatorilor: operatii CRUD
 - Gestiunea relatiilor de prietenie intre utlizatori: adagare/stergere prieten
-- Determnarea comunitatii din care face parte un anumit utilizator (componenta conexa a retelei care contine utlizatorul respectiv)
 - Folosirea tipului Optional la tipul returnat de metodele update, delete, save si findOne
+- Determinarea comunitatii din care face parte un anumit utilizator (componenta conexa a retelei care contine utlizatorul respectiv)
 - Gestiunea mesajelor: trimitere/stergere mesaj
 - Gestiunea evenimentelor: se va implementa sablonul Observer pentru notificari, abonare/dezabonare la un eveniment;
 - Autentificare: logare/delogare
 
-asigurați persistența datelor
-în baza de date – Utilizator si Prietenie – (recomandam sa folositi PostgresSQL –
-exemplificare la curs si seminar)
+Asigurare persistenta datelor in baza de date (folosind PostgresSQL)
 
-Să se afiseze toate relatiile de prietenie ale unui utilizator, create intr-o anumita luna a anului,
-utilizatorul si luna din an se citesc de la tastatura (folositi operatii pe srtream-uri (filter, map,
-reduce ....)
+Sa se afiseze toate relatiile de prietenie ale unui utilizator, create intr-o anumita luna a anului, utilizatorul si luna din an se citesc de la tastatura.
+Stabilirea relatiei intre utilizator si prieteni, stergerea in cascada
 
-Pentru versiunea proiectului Social Network din laboratorul 5, implementati
-operatia de stergere, atât pt Utilizator, cât și pt Prietenie, in conformitate cu ce
-ati invatat la cursul de baze de date (stabilirea unei relatii intre cele doua tabele,
-utilizatori si prietenii, si stergerea in cascada)
-
-Adaugati clasa Message avand urmatoarele attribute: id, from:Utilizator,
-to:List<Utilizator>, message: String, data:LocalDateTime; Derivati ReplyMessage
-(Collaboration) din clasa Message si adaugati un attribut message:Message (care
-specifica la ce mesaj raspunde obiectul de tipul ReplyMessage). (Sau puteti avea in
-clasa Message un atribut reply: Messaje, care sa fie null pentru un mesaj nou creat).
-Afisati (cronologic) conversatiile a doi utilizatori, cititi de la tastatura.
-2. Simulati trimiterea unei invitatii de prietenie si adaugati relatia doar daca utilizatorul
-invitat o accepta. Salvati cererile de prietenie si actualizati statusul lor (pending,
+Simulare trimitere invitatii de prietenie si adaugare relatie doar daca utilizatorul
+invitat o accepta. Salvare cereri de prietenie si actualizarea statusul lor (pending,
 approved, rejected).
-B. Cerințe non-funcționale:
+
+Cerințe non-functionale:
 1. GUI
 2. Repository de tip DB
    
