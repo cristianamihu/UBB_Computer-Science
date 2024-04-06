@@ -2,4 +2,4 @@ O pagina HTML ce contine o lista de imagini. Stilizata o lista cu doua stiluri d
 
 ![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/59bc430b-5e80-4381-9eab-0e3b5789c480)
 
-![Uploading image.png…]()
+![image](https://github.com/cristianamihu/UBB_Computer-Science/assets/128689630/ac3a5fc1-6bbb-42eb-878e-b5f5b50166e8)
