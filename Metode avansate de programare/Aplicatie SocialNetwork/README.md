@@ -1,11 +1,11 @@
-O aplicatie scrisa in limbaj Java bazata pe ideea unei retele de socializare in care iti poti crea un cont, sa te imprietenesti cu alti utilizatori si sa trimiti mesaje unui alt utilizator sau sa primesti mesaje de la un alt utilizator.
+O aplicatie scrisa in limbaj Java bazata pe ideea unei retele de socializare unde exista utilizatori care pot avea relatii de prietenie cu alti utilizatori
 
 Relatii intre entitati:
 - Un utilizator al retelei are o lista de prieteni
 - O prietenie se stabileste intre doi utilizatori ai retelei
 - Reteaua este definita de multimea utilizatorilor si a relatiilor de prietenie dintre acestia
 
-Cerinte non-funționale:
+Cerinte non-funtionale:
 - Arhitectura stratificata 
 - DDD (Domain Driven Design) 
 - Validarea datelor (Strategy Pattern) 
@@ -13,32 +13,18 @@ Cerinte non-funționale:
 - Interfata cu utilizatorul, de tip consola
 - Persistenta datelor: in memorie 
 
-Funcționalitati de baza:
+
+Functionalitati de baza:
 - Gestiunea utilizatorilor: operatii CRUD
 - Gestiunea relatiilor de prietenie intre utlizatori: adagare/stergere prieten
 - Folosirea tipului Optional la tipul returnat de metodele update, delete, save si findOne
 - Determinarea comunitatii din care face parte un anumit utilizator (componenta conexa a retelei care contine utlizatorul respectiv)
-- Gestiunea mesajelor: trimitere/stergere mesaj
-- Gestiunea evenimentelor: se va implementa sablonul Observer pentru notificari, abonare/dezabonare la un eveniment;
-- Autentificare: logare/delogare
 
-Asigurare persistenta datelor in baza de date (folosind PostgresSQL)
-
-Sa se afiseze toate relatiile de prietenie ale unui utilizator, create intr-o anumita luna a anului, utilizatorul si luna din an se citesc de la tastatura.
-Stabilirea relatiei intre utilizator si prieteni, stergerea in cascada
-
-Simulare trimitere invitatii de prietenie si adaugare relatie doar daca utilizatorul
-invitat o accepta. Salvare cereri de prietenie si actualizarea statusul lor (pending,
-approved, rejected).
-
-Cerințe non-functionale:
-1. GUI
-2. Repository de tip DB
-   
 
   Cerinte functionale:
-- Add/Remove Utilizator
+- Add/Remove Utilizator, stergerea in cascada
 - Add/Remove Prieten
+- Afisare toate relatiile de prietenie ale unui utilizator, create intr-o anumita luna a anului, utilizatorul si luna din an se citesc de la tastatura.
 - Afisare numar de comunitati (numarul de componente conexe din graful retelei)
 - Afisare cea mai sociabila comunitate (componenta conexa din retea cu cel mai lung drum)
 
