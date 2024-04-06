@@ -4,8 +4,11 @@ Cerinte de proiectare:
 - Clasa Factura (dataScadenta: DateTime, achizitii: List<Achizitie>, categorie: Enum{Utilities, Groceries, Fashion, Entertainment, Electronics}) extinde Document
 - Clasa Achizitie extinde Entity <string> si are urmatoarele atribute: produs: string, cantitate: int, pretProdus: double, factura: Factura
 - Fisierele documente.txt, facturi.txt, achizitii.txt contin informatiile despre documente, facturi si achizitii, fiecare inregistrare pe o linie noua, atributele despartite prin “,”
+  
     In fisierul documente.txt o linie este de forma: <idDocument>, <nume>, <dataEmitere>;
+
     In fisierul facturi.txt o linie este de forma: <idDocument>, <dataScadenta>, <categorie>;
+
     In fisierul achizitii.txt o linie este de forma: <idAchizitie>, <produs>, <cantitate>, <pretProdus>, <idDocument>.
 
 - Procesarea are loc numai la nivel de service sau de controller
