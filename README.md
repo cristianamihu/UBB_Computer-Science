@@ -65,7 +65,7 @@ A part of my work during college.🌻
     </li>
         <li>:open_file_folder:Semester 2
       <ul>
-           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/Metode-avansate-de-programare">
+           <li><a href="https://github.com/cristianamihu/UBB_Computer-Science/tree/main/Sisteme%20de%20gestiune%20a%20bazelor%20de%20date">
              Sisteme de gestiune a bazelor de date
                </a>
            </li>
