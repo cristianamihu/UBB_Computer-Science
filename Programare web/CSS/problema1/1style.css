@@ -1,0 +1,25 @@
+#div{
+	width: 400px;
+	border-style: solid;
+	border-width: 1px;
+    border-color: black;
+	display: flex;
+}
+
+#divScris{
+	width: 200px;
+	margin: auto;
+    text-align: center;
+    vertical-align: middle
+}
+
+#divPoza{
+	width: 200px;
+	margin: auto;
+    vertical-align: middle
+}
+
+img{
+	max-width:200px;
+	vertical-align: middle;
+}

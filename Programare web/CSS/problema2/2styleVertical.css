@@ -1,0 +1,44 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+* {
+	margin: 0;
+}
+
+#header {
+    background-color: red;
+	height: 20%;
+}
+
+.meniu {
+	float: left;
+	background-color: yellow;
+	list-style-type: none;
+	width: 10%;
+	height: 70%;
+	margin: 0;
+	padding: 0;
+}
+
+.meniu li {
+	border: 1px solid black;
+}
+
+#divMain {
+	display: inline-block;
+    background-color: green;
+	height: 70%;
+}
+
+#footer { 
+    background-color: pink;
+	height: 10%;
+}
+
+#header, #divMain, #footer {
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}

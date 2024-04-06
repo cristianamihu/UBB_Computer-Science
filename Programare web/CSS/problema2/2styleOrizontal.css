@@ -1,0 +1,42 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+* {
+	margin: 0;
+}
+
+#header {
+    background-color: red;
+	height: 20%;
+}
+
+.meniu {
+    background-color: yellow;
+	list-style-type: none;
+    border: 1px solid black;
+}
+
+.meniu li {
+    display: inline-block;
+	border-right: 1px solid black;
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+#divMain {
+    background-color: green;
+	height: 67%;
+}
+
+#footer { 
+    background-color: pink;
+	height: 10%;
+}
+
+#header, #divMain, #footer {
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
