@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <title >Formular de Adopție a Câinilor</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+</head>
+
+<body>
+    <h1>Formular de adopție a câinilor</h1>
+
+    <table border="1" width="80%" align="center">
+        <tr>
+            <th colspan="3" bgcolor="#90EE90"><center>Detalii câini</center></th>
+        </tr>
+        <tr>
+            <th rowspan="1" bgcolor="#c6c6c6" align = "left" valign = "middle"><strong>Rase disponibile<br><br>Caracteristici</strong></th>
+            <td colspan="2">
+                <table border="1">
+                    <tr>
+                        <td valign="top">
+                            <ol start="1000">
+                                <li><b>Labrador Retriever</b>
+                                    <ul type = "circle">
+                                        <li>Varstă: 2 ani</li>
+                                        <li>Caracter blând, prietenos, dornic să se joace</li>
+                                    </ul>
+                                    <hr>
+                                </li>
+                                <li><b>Beagle</b>
+                                    <ul type = "disc">
+                                        <li>Varstă: 4 luni</li>
+                                        <li>Caracter vesel, curajos și prietenos</li>
+                                    </ul>
+                                    <hr>
+                                </li>
+                                <li><b>Bulldog Englez</b>
+                                    <ul type = "square">
+                                        <li>Varstă:1 an 6 luni</li>
+                                        <li>Caracter calm, blând și jucăuș</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                        </td>
+                        <td>
+                            <img src="labrador.jpg" alt="Labrador Retriever" title="Labrador Retriever" width="100" height="50"><br><br>
+                            <img src="beagle.jpg" alt="Beagle" title="Beagle" width="100" height="50"><br><br>
+                            <img src="bulldog.jpg" alt="Bulldog Englez" title="Bulldog Englez" width="100" height="50">
+                        </td>
+                    </tr>
+                </table>
+                <table>
+                    <tr><th>* Toate animalele prezintă</th>
+                    <td>
+                        <ol type="A">
+                            <li>certificat de vaccin cu toate vaccinurile la zi</li>
+                            <li>zgardă cu numele</li>
+                            <li>cip în ureche</li>
+                        </ol>
+                    </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="3" bgcolor="#90EE90"><center>Informații personale</center></th>
+        </tr>
+        <tr>
+            <td>
+                <label for="nume">*Nume:</label>
+                <input type="text" id="nume" name="nume"> <!--required autofocus-->
+            </td>
+            <td>
+                <label for="prenume">*Prenume:</label>
+                <input type="text" id="prenume" name="prenume" size="15"> <!--required-->
+            </td>
+            <td>
+                <label>Gen:</label>
+                <input type="radio" id="masculin" name="gen" value="M">
+                <label for="masculin">M</label>
+                <input type="radio" id="feminin" name="gen" value="F">
+                <label for="feminin">F</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>*Adresă:</label>
+                <input type="text" id="adresa" name="adresa">
+            </td>
+            <td>
+                <label>*Ocupație:</label>
+                <input type="text" id="ocupatie" name="ocupatie">
+            </td>
+            <td>
+                <label>*Telefon:</label>
+                <input type="text" id="telefon" name="telefon" maxlength="10"> <!--placeholder = "+40 7xx xxx xxx" required-->
+            </td>
+        </tr>
+        <tr>
+            <th colspan="3" bgcolor="#90EE90"><center>Adopție</center></th>
+        </tr>
+        <tr>
+            <th rowspan="1" bgcolor="#c6c6c6" align = "left" valign = "middle"><strong>Cerințe</strong></th>
+            <td colspan="2">
+                <label>*Doriți un câine pentru apartament sau pentru casă cu curte?</label><br>
+                <input type="radio" id="apartament" name="locuinta" value="Apartament">
+                <label for="apartament">Apartament</label>
+                <input type="radio" id="curte" name="locuinta" value="Curte">
+                <label for="curte">Curte</label><br>
+                <label for="caine">Alegeți câinele:</label>
+                <select id="caine" name="caine">
+                    <option value="beagle">Beagle</option>
+                    <option value="bulldog">Bulldog</option>
+                    <option value="labrador">Labrador</option>
+                </select><br>
+                <label for = "produse"> Alege produsul pe care il vrei alături de câine: </label> <br>
+					<select name = "produse" id = "produse"><!--multiple-->
+						<option value = "Mancare"> Mancare </option>
+						<option value = "Culcus"> Culcuș </option>
+						<option value = "Jucarii" selected> Jucării </option>
+                        <option value = "Cusca"> Cușcă </option>
+                        <option value = "Vitamine"> Vitamine </option>
+					</select><br>
+                <label for="quantity">Dacă ai selectat mai sus mâncare, atunci selectează o cantitate de mâncare dorită în kg:</label>
+                <input type="text" id="quantity" name="quantity"> <br>   <!--type="number" min="2" max="100" step="5"-->               
+                <label for="data">Data ridicării animalului:</label>
+                <input type="text" id="data" name="data" maxlength="10"><br>  <!--type="date" max="2024-12-31"-->                  
+                <label>Alte dorințe suplimentare:</label><br>
+                <textarea rows="4" cols="50"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <div>
+                    <h3>Consimțământ:</h3>
+                    <form action="/action_page.php">
+                        <input type="checkbox" id="declaratie" name="declratie" value="declaratie" checked>
+                        <label for="declaratie"> Declar că am posibilitatea și sunt dispus să îngrijesc câinele adoptat.</label><br>
+                        <input type="checkbox" id="declaratie2" name="declaratie2" value="declaratie2" checked>
+                        <label for="declaratie2"> Sunt de acord cu prelucrarea datelor personale conform politicii de confidențialitate.</label><br>
+                    </form>
+                    <p>*Prin acestea declar că sunt de acord cu termenii și condițiile site-ului</p>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <fieldset>
+                    <legend>Informații despre adopția unui câine:</legend>
+                    <p>Vizitați site-ul pentru mai multe detalii legate de ce trebuie să știi atunci când adopti un câine: <a href="https://www.purina.ro/articole/caine/un-nou-caine/cum-sa-ti-iei-un-pui-de-caine" target="_blank">Vizitează site-ul</a></p>
+                </fieldset>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <label for = "numarCerere"> **Numărul cererii: </label>
+	<input type = "text" id = "numarCerere" name = "numarCerere" value="12345" readonly>
+    <br><br>
+    <form action="/action_page.php">
+        <input type="submit" onclick="alert('Cererea de adopție a fost trimisă!')" value="Finalizeaza trimiterea">
+        <input type="reset" value="Reseteaza datele" disabled>
+    </form>
+</body>
+</html>
