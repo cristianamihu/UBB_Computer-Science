@@ -1,5 +1,5 @@
 Cerinte de proiectare:
-- Interfata IRepository<ID, E> where E : Entity<ID> expune o singura metoda publica, IEnumerable< E > FindAll(), care returneaza o colectie formata din toate entitatile de tipul <E>
+- Interfata IRepository<ID, E> where E : Entity< ID > expune o singura metoda publica, IEnumerable< E > FindAll(), care returneaza o colectie formata din toate entitatile de tipul < E >
 - Clasa Document (nume: string , dataEmitere: DateTime) extinde Entity <string>
 - Clasa Factura (dataScadenta: DateTime, achizitii: List<Achizitie>, categorie: Enum{Utilities, Groceries, Fashion, Entertainment, Electronics}) extinde Document
 - Clasa Achizitie extinde Entity <string> si are urmatoarele atribute: produs: string, cantitate: int, pretProdus: double, factura: Factura
