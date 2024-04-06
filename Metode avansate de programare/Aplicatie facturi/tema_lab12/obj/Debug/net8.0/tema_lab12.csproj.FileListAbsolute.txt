@@ -1,0 +1,28 @@
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.exe
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.deps.json
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.runtimeconfig.json
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.dll
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.pdb
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.AssemblyInfoInputs.cache
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.AssemblyInfo.cs
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.csproj.CoreCompileInputs.cache
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.dll
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\refint\tema_lab12.dll
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.pdb
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.genruntimeconfig.cache
+C:\Users\fgfhf\Documents\UBB - Computer science\second year\first semester\Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\ref\tema_lab12.dll
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.exe
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.deps.json
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.runtimeconfig.json
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.dll
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\bin\Debug\net8.0\tema_lab12.pdb
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.AssemblyInfoInputs.cache
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.AssemblyInfo.cs
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.csproj.CoreCompileInputs.cache
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.dll
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\refint\tema_lab12.dll
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.pdb
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\tema_lab12.genruntimeconfig.cache
+C:\Users\fgfhf\Documents\1.Metode avansate de programare\tema_lab12\tema_lab12\obj\Debug\net8.0\ref\tema_lab12.dll
